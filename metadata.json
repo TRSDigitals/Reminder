@@ -1,0 +1,6 @@
+{
+  "name": "ದಿನಸಿರಿ",
+  "description": "ದಿನಸಿರಿ (DinaSiri) — ಹೇಳಿದರೆ ಸಾಕು, ದಿನಸಿರಿ ನೆನಪಿಸುತ್ತದೆ. Voice-first daily memory and reminder assistant for Indian village families in Kannada, Tulu & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
